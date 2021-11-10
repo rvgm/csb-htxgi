@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rvgm.github.io/csb-htxgi/static/css/main.acc88b08.chunk.css",
+    "main.js": "https://rvgm.github.io/csb-htxgi/static/js/main.eb40f7e8.chunk.js",
+    "main.js.map": "https://rvgm.github.io/csb-htxgi/static/js/main.eb40f7e8.chunk.js.map",
+    "runtime-main.js": "https://rvgm.github.io/csb-htxgi/static/js/runtime-main.873572a3.js",
+    "runtime-main.js.map": "https://rvgm.github.io/csb-htxgi/static/js/runtime-main.873572a3.js.map",
+    "static/js/2.a86ee205.chunk.js": "https://rvgm.github.io/csb-htxgi/static/js/2.a86ee205.chunk.js",
+    "static/js/2.a86ee205.chunk.js.map": "https://rvgm.github.io/csb-htxgi/static/js/2.a86ee205.chunk.js.map",
+    "index.html": "https://rvgm.github.io/csb-htxgi/index.html",
+    "static/css/main.acc88b08.chunk.css.map": "https://rvgm.github.io/csb-htxgi/static/css/main.acc88b08.chunk.css.map",
+    "static/js/2.a86ee205.chunk.js.LICENSE.txt": "https://rvgm.github.io/csb-htxgi/static/js/2.a86ee205.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.873572a3.js",
+    "static/js/2.a86ee205.chunk.js",
+    "static/css/main.acc88b08.chunk.css",
+    "static/js/main.eb40f7e8.chunk.js"
+  ]
+}
